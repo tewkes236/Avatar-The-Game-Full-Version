@@ -239,4 +239,4 @@ This repository serves as the official landing page for Avatar: The Game. The so
 **Get the most recent version of Avatar: The Game today!**
 
 ---
-**Last updated:** 2026-10-03 17:51:29 UTC
+**Last updated:** 2026-10-03 20:52:53 UTC
